@@ -1637,7 +1637,7 @@
 
   ​	比如n=3时，2*3的矩形块有3种覆盖方法：
 
-  ​	![1586251436848](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1586251436848.png)
+  ​	![1586251436848](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1586251436848.png?raw=true)
 
 - 解答方法：
 
@@ -1737,7 +1737,7 @@
 
       - 图示：
 
-        ![1586329390085](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1586329390085.png)
+        ![1586329390085](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1586329390085.png?raw=true)
 
     - 代码：
 
@@ -2015,7 +2015,7 @@
   
       图示：	
   
-      ![1586486051618](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1586486051618.png)
+      ![1586486051618](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1586486051618.png?raw=true)
   
     - 代码：
   
@@ -2181,7 +2181,7 @@
   
       - 图示：
   
-        ![1586587168890](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1586587168890.png)
+        ![1586587168890](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1586587168890.png?raw=true)
   
     - 代码：
   
@@ -2642,7 +2642,7 @@
 
 - 题目描述：
 
-  ![1588065457937](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1588065457937.png)
+  ![1588065457937](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1588065457937.png?raw=true)
 
 - 解答方法：
 
@@ -2864,7 +2864,7 @@
 
     - 示意图：
 
-      ![1590883888130](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1590883888130.png)
+      ![1590883888130](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1590883888130.png?raw=true)
 
   - 代码：
 
@@ -2950,7 +2950,7 @@
       - 元素压入原栈的时候，如果辅助栈为空，或者元素 <= 辅助栈的栈顶元素，那么将元素也压入辅助栈
         - 元素弹出原栈的时候，如果元素等于辅助栈的栈顶元素，辅助栈也弹出元素
   
-      ![1594368906132](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1594368906132.png)
+      ![1594368906132](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1594368906132.png?raw=true)
     
     - 代码：
     
@@ -3163,7 +3163,7 @@
       >
       > 相遇点到环入口长度为--**c**
       >
-      > ![1590799851912](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1590799851912.png)
+      > ![1590799851912](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1590799851912.png?raw=true)
       >
       > 则：相遇时
       >
@@ -3325,7 +3325,7 @@
 
     - 图示：
 
-      ![1590893941905](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1590893941905.png)
+      ![1590893941905](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1590893941905.png?raw=true)
 
     - 代码：
 
@@ -3679,13 +3679,13 @@
 
     - 思路：
 
-      ![1593578793783](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1593578793783.png)
+      ![1593578793783](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1593578793783.png?raw=true)
 
     - 代码：
 
       - 边界条件
 
-        ![1593580681365](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1593580681365.png)
+        ![1593580681365](https://github.com/HuerFu/FrontInterviewRecord/blob/master/img/1593580681365.png?raw=true)
 
         ```javascript
         /* function TreeNode(x) {
