@@ -1,4 +1,2 @@
 # FrontInterviewRecord
 WEB前端面试真实记录+剑指offer_JS版详解
-
-由于md文档的图片链接大部分存放在本地，这里md文档里的图片好些不会显示，所以单独附上了pdf版本的
